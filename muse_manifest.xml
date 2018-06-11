@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabymiranda.me" resolutions="1x" timestamp="1528730303043">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabymiranda.me" resolutions="1x" timestamp="1528732074577">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="84896740" ref="index:contact:about:portfolio"/>
+    <file name="master_a-master.css" crc="3801124011" ref="index:contact:about:portfolio"/>
     <file name="nomq_preview_master_a-master.css" crc="3911034396" ref="index:contact:about:portfolio"/>
     <file name="index.css" crc="30777565" ref="index"/>
     <file name="nomq_index.css" crc="360654877" ref="index"/>
-    <file name="contact.css" crc="154513191" ref="contact"/>
-    <file name="nomq_contact.css" crc="3868835633" ref="contact"/>
+    <file name="contact.css" crc="3828051251" ref="contact"/>
+    <file name="nomq_contact.css" crc="4139977899" ref="contact"/>
     <file name="about.css" crc="84984117" ref="about"/>
     <file name="nomq_about.css" crc="4164632079" ref="about"/>
     <file name="portfolio.css" crc="248279001" ref="portfolio"/>
@@ -50,7 +50,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="pasted svg 280674x168_poster_.png" crc="3916450200" ref="index:contact"/>
+    <file name="pasted svg 280674x168_poster_.png" crc="3916450200" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
     <file name="u316.png" crc="67835376" ref="index:about:portfolio:contact"/>
     <file name="u316-r.png" crc="3997408285" ref="index:about:portfolio:contact"/>
@@ -199,9 +199,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u867-63.png" crc="4240913507" ref="index"/>
-    <file name="acd852bd337179175eba7e4bb6e48dc0960x640.jpg" crc="509470949" ref="index:contact">
+    <file name="acd852bd337179175eba7e4bb6e48dc0960x640.jpg" crc="509470949" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
     <file name="fdgsfd.jpg" crc="327859147" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -318,8 +317,8 @@
     <file name="u405-52.png" crc="3956585170" ref="contact"/>
     <file name="u405-53.png" crc="4136845036" ref="contact"/>
   </folder>
-  <file name="index.html" crc="237485915" seo="true" mt="1528729565516" redirect="true"/>
-  <file name="about.html" crc="4031715432" seo="true" mt="1528725648228" redirect="true"/>
-  <file name="portfolio.html" crc="16472341" seo="true" mt="1528725689539" redirect="true"/>
-  <file name="contact.html" crc="376580395" seo="true" mt="1528730287669" redirect="true"/>
+  <file name="index.html" crc="237485915" seo="true" mt="1528731956660" redirect="true"/>
+  <file name="about.html" crc="4031715432" seo="true" mt="1528731956660" redirect="true"/>
+  <file name="portfolio.html" crc="16472341" seo="true" mt="1528731956660" redirect="true"/>
+  <file name="contact.html" crc="127514018" seo="true" mt="1528732050246" redirect="true"/>
 </manifest>
