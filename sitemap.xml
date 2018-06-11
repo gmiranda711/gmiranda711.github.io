@@ -267,4 +267,10 @@
       <image:loc>http://gabymiranda.me/images/pasted-svg-280674x168.svg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://gabymiranda.me/assets/updated-resume-copy.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
